@@ -1,7 +1,7 @@
 # zika-sero-pacific
 
 
-This repository contains code and data to accompany the paper: Henderson AD, Aubry A, Kama M et al. "Zika virus seroprevalence declines and neutralization antibodies wane in adults following outbreaks in French Polynesia and Fiji".
+This repository contains code and data to accompany the paper: Henderson AD, Aubry A, Kama M et al. "Zika virus seroprevalence declines and neutralization antibodies wane in adults following outbreaks in French Polynesia and Fiji" (https://doi.org/10.7554/eLife.48460).
 
 ### Guide to files
 
